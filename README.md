@@ -17,3 +17,4 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=davidmiro&" alt="davidmiro" /></p>
 
+[![davidmiro's GitHub | Stats](https://stats.quira.sh/davidmiro/github?theme=dark)](https://quira.sh?utm_source=widgets&utm_campaign=davidmiro)
