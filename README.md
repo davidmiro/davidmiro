@@ -5,9 +5,6 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/david_miro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="david_miro" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/miro-david" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="miro-david" height="30" width="40" /></a>
-<a href="https://instagram.com/david_miro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="david_miro" height="30" width="40" /></a>
 <a href="https://www.hackerrank.com/davidmiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="davidmiro" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/davidmiro" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="davidmiro" height="30" width="40" /></a>
 </p>
